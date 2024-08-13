@@ -1,4 +1,4 @@
-# Dashboard_OnlineSales
+# Dashboard_Online_Sales
 Tableau: https://public.tableau.com/views/EcommerceOnlineSales/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
