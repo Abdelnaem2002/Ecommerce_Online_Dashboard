@@ -30,6 +30,3 @@ Tableau: https://public.tableau.com/views/EcommerceOnlineSales/Dashboard1?:langu
    - Asia: Clothing and sports are the most popular categories.
    - Europe: Beauty products lead the sales, followed by home appliances.
    - North America: Books and electronics are the top-selling categories.
-
-### Summary
-This dashboard provides a comprehensive view of the e-commerce sales performance, highlighting the top-performing products, payment methods, and regional preferences. The declining revenue trend suggests a need for strategic intervention, perhaps by exploring new product lines or marketing initiatives to boost sales in the latter half of the year.
